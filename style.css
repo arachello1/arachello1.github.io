@@ -1,0 +1,19 @@
+body{
+    background-color: lemonchiffon;
+    font-family: Verdana;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#title{
+    background-color: rgb(212, 163, 99);
+}
+
+#info{
+    background-color: rgb(213, 179, 112);
+}
+
+#project{
+    background-color: rgb(252, 236, 158);
+}
